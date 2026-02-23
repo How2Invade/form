@@ -1,6 +1,6 @@
-# Contact Manager Form
+# FSD Form - College Project
 
-A simple yet functional contact management application built with vanilla HTML, CSS, and JavaScript. This application allows users to create, read, update, and delete contacts with persistent storage using the browser's localStorage.
+A simple yet functional contact management application built with vanilla HTML, CSS, and JavaScript. This is a Full Stack Development (FSD) college project that demonstrates fundamental web development concepts. The application allows users to create, read, update, and delete contacts with persistent storage using the browser's localStorage.
 
 ## 📋 Project Structure
 
@@ -12,6 +12,13 @@ Form/
 ├── README.md        # Project documentation (this file)
 └── .git/            # Git version control directory
 ```
+
+## 🎓 Project Type
+
+- **Course**: Full Stack Development (FSD)
+- **Institution**: College Project
+- **Student**: Sohan Agate
+- **Level**: Beginner to Intermediate
 
 ## 📄 File Details
 
@@ -167,5 +174,6 @@ The JavaScript file that handles all the application logic.
 
 ---
 
+**Project Type**: Full Stack Development (FSD) - College Assignment  
 **Created by**: Sohan Agate  
 **Last Updated**: February 2026
